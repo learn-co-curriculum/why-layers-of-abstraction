@@ -6,6 +6,6 @@ Eventually, the magic will break. In other words, your programs will break, If y
 
 With Rails, you'll understand how HTTP works and how Rails is able to translate all of the complexities of HTTP and modern web servers into something that is easy to work with. With all its features, it can also be confusing to see how they fit together to make a response to give to the user. In building up to Rails, you'll build a simple version of most Rails features. Once you `require 'rails'` it should feel familiar.
 
-Be prepared, it's going to be hard to go up layers of abstraction. You are no longer just a driver on the web. You are a maker on the web.
+Be prepared! It's going to be hard to go up layers of abstraction. You are no longer just a driver on the web. You are now a maker on the web.
 
 <a href='https://learn.co/lessons/why-layers-of-abstraction' data-visibility='hidden'>View this lesson on Learn.co</a>
