@@ -8,4 +8,4 @@ With Rails, you'll understand how HTTP works and how Rails is able to translate 
 
 Be prepared! It's going to be hard to go up layers of abstraction. You are no longer just a driver on the web. You are now a maker on the web.
 
-<a href='https://learn.co/lessons/why-layers-of-abstraction' data-visibility='hidden'>View this lesson on Learn.co</a>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/why-layers-of-abstraction' title='Increasing Layers Of Abstraction'>Increasing Layers Of Abstraction</a> on Learn.co and start learning to code for free.</p>
