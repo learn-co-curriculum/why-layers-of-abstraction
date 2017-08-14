@@ -1,4 +1,4 @@
-# Increasing Layers Of Abstraction
+# Increasing Layers of Abstraction
 
 Before we start our journey to Rails, let's pause and discuss the route to get there. We'll first explore two lower-level Ruby web tools: Rack and Sinatra. Rails does *so much* that it might seem like magic. But as a web app developer, we can't rely on magic to see us through. We need to understand everything we're doing at a layer (or two!) deeper than the layer at which we're operating.
 
@@ -8,6 +8,4 @@ With Rails, you'll understand how HTTP works and how Rails is able to translate 
 
 Be prepared! It's going to be hard to go up layers of abstraction. You are no longer just a driver on the web. You are now a maker on the web.
 
-<p data-visibility='hidden'>View <a href='https://learn.co/lessons/why-layers-of-abstraction' title='Increasing Layers Of Abstraction'>Increasing Layers Of Abstraction</a> on Learn.co and start learning to code for free.</p>
-
-<p class='util--hide'>View <a href='https://learn.co/lessons/why-layers-of-abstraction'>Increasing Layers of Abstraction</a> on Learn.co and start learning to code for free.</p>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/why-layers-of-abstraction' title='Increasing Layers of Abstraction'>Increasing Layers of Abstraction</a> on Learn.co and start learning to code for free.</p>
